@@ -33,7 +33,7 @@
         "animationPreviewKey": 9,
         "showEmail": true,
         "showTimezone": false,
-        "customLanguages": "Python, Qiskit, Java, C/C++, JS",
+        "customLanguages": "Python, Java, C/C++, JS",
         "headerColor": "#00ff88",
         "labelColor": "#55ffff",
         "dotColor": "#2e4c38",
